@@ -23,7 +23,6 @@ Wir werden zwei Casinospiele programmieren, nämlich Roulette und die Slotmaschi
 |3|	Muss|	Funktional	|Als Benutzer möchte ich meinen Einsatz setzen können, um am Spiel teilzunehmen.|
 |4|	Soll	|Funktional	|Als Benutzer möchte ich die Möglichkeit haben, verschiedene Einsätze zu platzieren, um meine Strategie zu variieren.|
 |5|	Kann|	Funktional|	Als Benutzer möchte ich eine Erklärung der Spielregeln erhalten, um das Spiel besser zu verstehen.|
-
 | ...  |                 |      |                                    |
 
 
@@ -36,9 +35,6 @@ Wir werden zwei Casinospiele programmieren, nämlich Roulette und die Slotmaschi
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
-### 1.4 Diagramme
-
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
 
 ## 2 Planen
 
@@ -55,7 +51,6 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
 ## 4 Realisieren
 
@@ -77,15 +72,5 @@ Total:
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
 
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
-
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
