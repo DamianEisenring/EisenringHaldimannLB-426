@@ -20,10 +20,11 @@ Wir werden zwei Casinospiele programmieren, nämlich Roulette und die Slotmaschi
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    | Muss                | Funktional     | Als Benutzer möchte ich zwischen Slots und Roulette auswählen können, um entscheiden zu können welches Spiel ich spielen möchte. |
 |2| Muss | Funktional| Als Benutzer möchte ich Roulette nach den klassischen Regeln spielen, so dass ich verschiedene möglichkeiten habe um Geld zu setzen|
-|3|Muss|Funktional| Als Benutzer möchte ich an der Slot Maschine spielen können, dass ich nicht den ganzen Tag Roulette spielen muss.
+|3|Muss|Funktional| Als Benutzer möchte ich an der Slot Maschine spielen können, dass ich nicht den ganzen Tag Roulette spielen muss.|
 |4|	Muss|	Funktional|	Als Benutzer möchte ich mein Guthaben sehen, um meine Finanzen im Blick zu behalten.|
 |5|	Muss|	Funktional	|Als Benutzer möchte ich meinen Einsatz setzen können, um am Spiel teilzunehmen.|
-|6|	Soll	|Funktional	|Als Benutzer möchte ich die Möglichkeit haben, verschiedene Einsätze zu platzieren, um meine Strategie zu variieren.|
+|6| Muss | Funktional | Als Benutzer möchte ich wenn ich Gewinne das meine Chips steigen, dass ich nicht nur Minus machen kann.|
+|7|	Soll	|Funktional	|Als Benutzer möchte ich die Möglichkeit haben, verschiedene Einsätze zu platzieren, um meine Strategie zu variieren.|
 | ...  |                 |      |                                    |
 
 
