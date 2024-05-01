@@ -35,8 +35,11 @@ Wir werden zwei Casinospiele programmieren, nämlich Roulette und die Slotmaschi
 | 1.1  |              |         |                   |
 | ...  |              |         |                   |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
+### 1.4 Design Pattern
+Wir haben uns fürs Design Pattern Strategy entschieden. Das Strategy Pattern ermöglicht eine flexible und leicht austauschbare Implementierung von Algorithmen.
+In unserem Fall erlaubt dieses Muster eine saubere Integration verschiedener Casinospiele wie Roulette und Slotmaschine, wobei jedes Spiel als eigene Klasse implementiert wird, die ein gemeinsames Interface implementiert.
+Dadurch bleibt das System flexibel und erweiterbar, und neue Spiele können einfach hinzugefügt werden, ohne die bestehende Logik zu beeinträchtigen.
 
 ## 2 Planen
 
