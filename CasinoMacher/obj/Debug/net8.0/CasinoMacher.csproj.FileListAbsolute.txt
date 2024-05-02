@@ -27,3 +27,17 @@ C:\Users\haldi\Downloads\EisenringHaldimannLB-426-main\CasinoMacher\obj\Debug\ne
 C:\Users\haldi\Downloads\EisenringHaldimannLB-426-main\CasinoMacher\obj\Debug\net8.0\CasinoMacher.pdb
 C:\Users\haldi\Downloads\EisenringHaldimannLB-426-main\CasinoMacher\obj\Debug\net8.0\CasinoMacher.genruntimeconfig.cache
 C:\Users\haldi\Downloads\EisenringHaldimannLB-426-main\CasinoMacher\obj\Debug\net8.0\ref\CasinoMacher.dll
+C:\Users\haldi\OneDrive\Desktop\EisenringHaldimannLB-426-main\CasinoMacher\bin\Debug\net8.0\CasinoMacher.exe
+C:\Users\haldi\OneDrive\Desktop\EisenringHaldimannLB-426-main\CasinoMacher\bin\Debug\net8.0\CasinoMacher.deps.json
+C:\Users\haldi\OneDrive\Desktop\EisenringHaldimannLB-426-main\CasinoMacher\bin\Debug\net8.0\CasinoMacher.runtimeconfig.json
+C:\Users\haldi\OneDrive\Desktop\EisenringHaldimannLB-426-main\CasinoMacher\bin\Debug\net8.0\CasinoMacher.dll
+C:\Users\haldi\OneDrive\Desktop\EisenringHaldimannLB-426-main\CasinoMacher\bin\Debug\net8.0\CasinoMacher.pdb
+C:\Users\haldi\OneDrive\Desktop\EisenringHaldimannLB-426-main\CasinoMacher\obj\Debug\net8.0\CasinoMacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haldi\OneDrive\Desktop\EisenringHaldimannLB-426-main\CasinoMacher\obj\Debug\net8.0\CasinoMacher.AssemblyInfoInputs.cache
+C:\Users\haldi\OneDrive\Desktop\EisenringHaldimannLB-426-main\CasinoMacher\obj\Debug\net8.0\CasinoMacher.AssemblyInfo.cs
+C:\Users\haldi\OneDrive\Desktop\EisenringHaldimannLB-426-main\CasinoMacher\obj\Debug\net8.0\CasinoMacher.csproj.CoreCompileInputs.cache
+C:\Users\haldi\OneDrive\Desktop\EisenringHaldimannLB-426-main\CasinoMacher\obj\Debug\net8.0\CasinoMacher.dll
+C:\Users\haldi\OneDrive\Desktop\EisenringHaldimannLB-426-main\CasinoMacher\obj\Debug\net8.0\refint\CasinoMacher.dll
+C:\Users\haldi\OneDrive\Desktop\EisenringHaldimannLB-426-main\CasinoMacher\obj\Debug\net8.0\CasinoMacher.pdb
+C:\Users\haldi\OneDrive\Desktop\EisenringHaldimannLB-426-main\CasinoMacher\obj\Debug\net8.0\CasinoMacher.genruntimeconfig.cache
+C:\Users\haldi\OneDrive\Desktop\EisenringHaldimannLB-426-main\CasinoMacher\obj\Debug\net8.0\ref\CasinoMacher.dll
