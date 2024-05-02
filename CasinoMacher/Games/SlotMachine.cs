@@ -75,8 +75,11 @@ namespace CasinoMacher.Games
 
         private int CalculatePayout(string[] symbols, int bet)
         {
-            //Logic not implemented -> also cant detect winner, because the payout isnt calculated
-            return 0;
+            // Immer das zwei Fache wird ausgezahlt
+            if (symbols[0] == symbols[1] && symbols[1] == symbols[2])
+                return bet * 2;
+            else
+                return -bet; // Verlust des Einsatzes
         }
     }
 }
