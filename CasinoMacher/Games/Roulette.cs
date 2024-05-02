@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CasinoMacher.Games
 {
-    class Roulette : ICasinoGame
+    public class Roulette : ICasinoGame
     {
         private int _chips = 200;
         public int chips()
