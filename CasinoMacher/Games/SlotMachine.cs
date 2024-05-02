@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CasinoMacher.Games
 {
-    class SlotMachine : ICasinoGame
+    public class SlotMachine : ICasinoGame
     {
         private readonly string[] symbols = { "Cherry", "Bar", "Seven", "Bell", "Diamond" };
         private readonly Random random = new Random();
@@ -60,7 +60,7 @@ namespace CasinoMacher.Games
             Console.WriteLine("Thanks for playing!");
         }
 
-        private string[] Spin()
+        public string[] Spin()
         {
             string[] result = new string[3];
 
@@ -73,7 +73,7 @@ namespace CasinoMacher.Games
             return result;
         }
 
-        private int CalculatePayout(string[] symbols, int bet)
+        public int CalculatePayout(string[] symbols, int bet)
         {
             // Immer das zwei Fache wird ausgezahlt
             if (symbols[0] == symbols[1] && symbols[1] == symbols[2])
