@@ -49,5 +49,77 @@ namespace Unittests_Casinomacher
             // Assert
             Assert.AreEqual(bet * 2, payout);
         }
+
+
+
+
+
+        [TestMethod]
+        public void IsEven_EvenNumber_ReturnsTrue()
+        {
+            // Arrange
+            var roulette = new Roulette();
+            int number = 2;
+
+            // Act
+            bool isEven = roulette.IsEven(number);
+
+            // Assert
+            Assert.IsTrue(isEven);
+        }
+
+        [TestMethod]
+        public void IsEven_OddNumber_ReturnsFalse()
+        {
+            // Arrange
+            var roulette = new Roulette();
+            int number = 3;
+
+            // Act
+            bool isEven = roulette.IsEven(number);
+
+            // Assert
+            Assert.IsFalse(isEven);
+        }
+
+        [TestMethod]
+        public void GetBet_ValidColor_Red_ReturnsBetAmount()
+        {
+            // Arrange
+            var roulette = new Roulette();
+            string answer = "red";
+            int expectedBetAmount = 10; // Assuming user inputs 10 as bet amount
+
+            // Act
+            int betAmount;
+            using (StringReader sr = new StringReader("10"))
+            {
+                Console.SetIn(sr);
+                betAmount = roulette.GetBet(answer);
+            }
+
+            // Assert
+            Assert.AreEqual(expectedBetAmount, betAmount);
+        }
+
+        [TestMethod]
+        public void GetBet_ValidNumber_20_ReturnsBetAmount()
+        {
+            // Arrange
+            var roulette = new Roulette();
+            string answer = "20";
+            int expectedBetAmount = 20; // Assuming user inputs 20 as bet amount
+
+            // Act
+            int betAmount;
+            using (StringReader sr = new StringReader("20"))
+            {
+                Console.SetIn(sr);
+                betAmount = roulette.GetBet(answer);
+            }
+
+            // Assert
+            Assert.AreEqual(expectedBetAmount, betAmount);
+        }
     }
 }
